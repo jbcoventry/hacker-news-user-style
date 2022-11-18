@@ -1,0 +1,19 @@
+* {
+    font-family: system-ui, Sans-Serif !important;
+    font-size: 1em !important;
+    color: black !important;
+    text-decoration: none !important;
+    background-color: #f8fafc !important;
+}
+a {
+    color: darkblue !important;
+}
+.title {
+    font-weight: 500 !important;
+}
+.subtext {
+    font-size: 0.9em !important;
+}
+.comment {
+    max-width: 80ch !important;
+}
